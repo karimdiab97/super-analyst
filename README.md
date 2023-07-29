@@ -9,12 +9,12 @@ The project aims to provide a comprehensive analysis of sales data and performan
     Top 10 Dashboard.
 
 Each dashboard has specific requirements for visualizations, filters, and formatting.
-#Project Details:
+# Project Details:
 
     All sheets are filtered to display data only for the United States.
     All dashboard contains dynamic titles and sentences: The title and dashboard sentences change based on on the selected measure and filters.
 
-#Overview Dashboard:
+# Overview Dashboard:
 
 The Overview Dashboard focuses on providing a high-level summary of sales data. It includes the following features:
 
@@ -23,7 +23,7 @@ The Overview Dashboard focuses on providing a high-level summary of sales data. 
     Change %: Shows the percentage change for the selected year compared to the previous year.
     The three lower tiles are further filtered by segment (Consumer, Corporate, Home Office).
 
-#Performance Dashboard:
+# Performance Dashboard:
 
 The Performance Dashboard provides an in-depth analysis of sales performance metrics. It includes the following features:
 
@@ -32,7 +32,7 @@ The Performance Dashboard provides an in-depth analysis of sales performance met
     Chart #2: Order priority distribution by several measures.
     Chart #3: Ship mode distribution by several measures.
 
-#Top 10 Dashboard:
+# Top 10 Dashboard:
 
 The Top 10 Dashboard focuses on identifying top-performing countries and states based on sales. It includes the following features:
 
@@ -40,4 +40,4 @@ The Top 10 Dashboard focuses on identifying top-performing countries and states 
     Chart #1: Top 10 countries by sales.
     Chart #2: Top 10 states by sales, based on the selection from Chart #1.
 
-#Project Demo
+# Project Demo
